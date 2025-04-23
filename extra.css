@@ -1,0 +1,19 @@
+.logo {
+    font-size: 24px;
+    font-weight: 800;
+    cursor: pointer;
+}
+.blink {
+    color: #f7c62e;
+}
+
+.it {
+    color: #3aaa35;
+}
+
+
+
+<div class="logo">
+            <span class="blink">eatify</span><span class="it">it</span>
+        </div>
+        
